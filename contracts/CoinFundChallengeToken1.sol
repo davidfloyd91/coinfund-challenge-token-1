@@ -8,8 +8,6 @@ import "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol";
 
 import "./interfaces/AggregatorV3Interface.sol";
 
-import "hardhat/console.sol";
-
 contract CoinFundChallengeToken1 is ERC20 {
     using SafeMath for uint256;
 

@@ -1,4 +1,4 @@
-# CoinFundChallengeToken2
+# CoinFundChallengeToken1
 
 ## Requirements
 
